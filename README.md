@@ -1,1 +1,2 @@
-# scanner-seguranca
+mkdir scanner-seguranca
+cd scanner-seguranca
